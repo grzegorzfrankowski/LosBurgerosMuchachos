@@ -6,7 +6,9 @@ Juan Carlos el Jefe
 
 ## Dostawca
 
-Miguel Rapido
+| El Provideiro |
+|---------------|
+| Miguel Rapido |
 
 ## Kucharze
 
