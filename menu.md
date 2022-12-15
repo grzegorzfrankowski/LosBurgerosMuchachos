@@ -4,12 +4,13 @@
 
 <img src="img/burger1.jpg" width=200>
 
-|Lp. |                              Burger                                  | Cena |
-|----|----------------------------------------------------------------------|------|
-|1.  | CLASSIC(mięso wołowe 160g, ser, sałata, pomidor, sos BBQ)            | 18zł |
-|2.  | NACHOS(mięso wołowe 160g, ser, sałata, nachos, sos salsa)            | 20zł |
-|3.  | DEVIL(mięso wołowe 160g, ser, sałata, jalapeno, sos sambal)          | 22zł |
-|4.  | MEGAMAX(mięso wołowe 320g, ser, sałata, pomidor, sos kentucky)       | 25zł |
+|Lp. |                                 Burger                                   | Cena |
+|----|--------------------------------------------------------------------------|------|
+|1.  | CLASSIC(mięso wołowe 160g, ser, sałata, pomidor, sos BBQ)                | 18zł |
+|2.  | NACHOS(mięso wołowe 160g, ser, sałata, nachos, sos salsa)                | 20zł |
+|3.  | DEVIL(mięso wołowe 160g, ser, sałata, jalapeno, sos sambal)              | 22zł |
+|4.  | MEGAMAX(mięso wołowe 320g, ser, sałata, pomidor, sos kentucky)           | 25zł |
+|5.  | GRECOS(mięso wołowe 160g, ser feta, sałata, pomidor, sos tzatziki)       | 23zł |
 
 ## Burgery drobiowe
 
