@@ -38,6 +38,6 @@
 
 |Lp. |       Dodatek         | Cena |
 |----|-----------------------|------|
-|1.  | Krewetki 3szt         |  8zł |
-|2.  | frytki 200g           |  8zł |
-|3.  | Onion Rings 6szt      |  6zł |
+|1.  | Krewetki 3szt         |  7zł |
+|2.  | frytki 200g           |  7zł |
+|3.  | Onion Rings 6szt      |  5zł |
