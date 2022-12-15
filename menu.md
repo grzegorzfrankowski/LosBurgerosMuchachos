@@ -13,6 +13,8 @@
 
 ## Burgery drobiowe
 
+<img src="img/burger2.jpg" width=200>
+
 |Lp. |                              Burger                             | Cena |
 |----|-----------------------------------------------------------------|------|
 |1.  | CRISPY(mięso drobiowe 160g, sałata, pomidor, sos śmietanowy)    | 18zł |
