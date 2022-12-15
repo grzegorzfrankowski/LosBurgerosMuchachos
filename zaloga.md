@@ -6,6 +6,8 @@ Juan Carlos el Jefe
 
 ## Dostawca
 
+Miguel Rapido
+
 ## Kucharze
 
 Ricardo con Carne
