@@ -19,7 +19,7 @@
 |Lp. |                              Burger                             | Cena |
 |----|-----------------------------------------------------------------|------|
 |1.  | CRISPY(mięso drobiowe 160g, sałata, pomidor, sos śmietanowy)    | 19zł |
-|2.  | BACON(mięso wołowe 160g, ser, sałata, bekon, sos salsa)         | 21zł |
+|2.  | BACON(mięso drobiowe 160g, ser, sałata, bekon, sos salsa)         | 21zł |
 |3.  | HOTQRA(mięso drobiowe 160g, sałata, jalapeno, sos sambal)       | 23zł |
 
 ## Napoje
