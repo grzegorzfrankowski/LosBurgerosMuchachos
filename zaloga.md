@@ -10,9 +10,10 @@ Miguel Rapido
 
 ## Kucharze
 
-Ricardo con Carne
-
-Federico Mantequilla
+| Los Kucharjes        |
+|----------------------|
+| Ricardo con Carne    |
+| Federico Mantequilla |
 
 ## Kelnerzy
 
