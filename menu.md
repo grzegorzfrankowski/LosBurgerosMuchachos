@@ -42,3 +42,5 @@
 |1.  | Krewetki 3szt         |  7zł |
 |2.  | frytki 200g           |  7zł |
 |3.  | Onion Rings 6szt      |  5zł |
+|4.  | Hili bites 5szt       |  5zł |
+
