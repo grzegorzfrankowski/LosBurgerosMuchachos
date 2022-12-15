@@ -8,6 +8,10 @@ Juan Carlos el Jefe
 
 ## Kucharze
 
+Ricardo con Carne
+
+Federico Mantequilla
+
 ## Kelnerzy
 
 To my
