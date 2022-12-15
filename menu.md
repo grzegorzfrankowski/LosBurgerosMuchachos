@@ -26,3 +26,9 @@
 |3.  | Piwo 330ml                |  6zł |
 
 ## Dodatki
+
+|Lp. |       Dodatek         | Cena |
+|----|-----------------------|------|
+|1.  | Krewetki 3szt         |  8zł |
+|2.  | frytki 200g           |  8zł |
+|3.  | Onion Rings 6szt      |  6zł |
