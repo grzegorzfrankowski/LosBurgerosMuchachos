@@ -23,6 +23,8 @@
 
 ## Napoje
 
+<img src="img/sok.jpg" width=200>
+
 |Lp. |            Napój          | Cena |
 |----|---------------------------|------|
 |1.  | Sok pomarańczowy 330ml    |  5zł |
