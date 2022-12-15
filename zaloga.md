@@ -2,7 +2,9 @@
 
 ## Kierownik
 
-Juan Carlos el Jefe
+| El Capitano         |
+|---------------------|
+| Juan Carlos el Jefe |
 
 ## Dostawca
 
