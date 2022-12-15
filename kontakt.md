@@ -13,3 +13,7 @@ losburgerosmuchachos@burger.pl
 ## fejsbuk
 
 fejsbuk.kom/losburgerosmuchachos
+
+## instakilo
+
+instakilo.kom/losburgerosmuchachos
