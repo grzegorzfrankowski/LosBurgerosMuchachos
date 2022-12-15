@@ -31,6 +31,7 @@
 |1.  | Sok pomarańczowy 330ml    |  5zł |
 |2.  | Cola 330ml                |  5zł |
 |3.  | Piwo 330ml                |  6zł |
+|4.  | Choco Christmas 330ml     | 10zł |
 
 ## Dodatki
 
