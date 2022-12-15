@@ -2,6 +2,8 @@
 
 ## Burgery wołowe
 
+<img src="img/burger1.jpg" width=200>
+
 |Lp. |                              Burger                                  | Cena |
 |----|----------------------------------------------------------------------|------|
 |1.  | CLASSIC(mięso wołowe 160g, ser, sałata, pomidor, sos BBQ)            | 18zł |
@@ -11,6 +13,8 @@
 
 ## Burgery drobiowe
 
+<img src="img/burger2.jpg" width=200>
+
 |Lp. |                              Burger                             | Cena |
 |----|-----------------------------------------------------------------|------|
 |1.  | CRISPY(mięso drobiowe 160g, sałata, pomidor, sos śmietanowy)    | 18zł |
@@ -19,6 +23,8 @@
 
 ## Napoje
 
+<img src="img/sok.jpg" width=200>
+
 |Lp. |            Napój          | Cena |
 |----|---------------------------|------|
 |1.  | Sok pomarańczowy 330ml    |  5zł |
@@ -26,6 +32,8 @@
 |3.  | Piwo 330ml                |  6zł |
 
 ## Dodatki
+
+<img src="img/onion.jpg" width=200>
 
 |Lp. |       Dodatek         | Cena |
 |----|-----------------------|------|
