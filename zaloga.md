@@ -2,6 +2,8 @@
 
 ## Kierownik
 
+Juan Carlos el Jefe
+
 ## Dostawca
 
 ## Kucharze
