@@ -2,6 +2,8 @@
 
 ## Burgery wołowe
 
+<img src="img/burger1.jpg" width=200>
+
 |Lp. |                              Burger                                  | Cena |
 |----|----------------------------------------------------------------------|------|
 |1.  | CLASSIC(mięso wołowe 160g, ser, sałata, pomidor, sos BBQ)            | 18zł |
