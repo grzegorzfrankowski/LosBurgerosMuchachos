@@ -16,13 +16,12 @@ Federico Mantequilla
 
 ## Kelnerzy
 
-Esteban Julio Montoya
-
-Andres Borja
-
-Rafael Zubizaretta
-
-Antonio la Palanquera
+| Los Kelneros          |
+|-----------------------|
+| Esteban Julio Montoya |
+| Andres Borja          |
+| Rafael Zubizaretta    |
+| Antonio la Palanquera |
 
 To my
 
