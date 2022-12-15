@@ -29,6 +29,8 @@
 
 ## Dodatki
 
+<img src="img/onion.jpg" width=200>
+
 |Lp. |       Dodatek         | Cena |
 |----|-----------------------|------|
 |1.  | Krewetki 3szt         |  8zł |
